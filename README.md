@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GGomesBRA
 - 👀 I’m interested in Python and Blockchain
-- 🌱 I’m currently learning solidity/Brownie/Truffle/Blockchain
+- 🌱 I’m currently learning REACT and Blockchain related stuff [solidity/Brownie/Truffle/Blockchain]
 - 💞️ I’m looking to collaborate on any projects related to blockchain technology
 - 📫 Reach me through discord gabrielrog#9181
 
