@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GGomesBRA
-- 👀 I’m interested in Python and Blockchain
-- 🌱 I’m currently learning REACT and Blockchain related stuff [solidity/Brownie/Truffle/Blockchain]
-- 💞️ I’m looking to collaborate on any projects related to blockchain technology
-- 📫 Reach me through 
+- 👀 I’m interested in Python, Blockchain and WebDev
+- 🌱 I’m currently learning Django and React related stuff
+- 💞️ I’m looking to collaborate on any projects that will improve my skills in python, data, webdev and blockchain technology
+- 📫 Reach me through my e-mail: gabriel.ribeiro.o.g@gmail.com or linkedin: https://www.linkedin.com/in/gabrielrog1/
 
 <!---
 GGomesBRA/GGomesBRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
