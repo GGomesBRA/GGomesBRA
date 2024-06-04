@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GGomesBRA
-- 👀 I’m interested in Python, Blockchain and WebDev
-- 🌱 I’m currently improving my django and front-end (Vue) ksnowledge
-- 💞️ I’m looking to collaborate on any projects that will improve my skills in python, data, webdev and blockchain technology
+- 👀 I’m interested in Python, Javascript, Blockchain and WebDev
 - 📫 Reach me through my e-mail: gabriel.ribeiro.o.g@gmail.com or linkedin: https://www.linkedin.com/in/gabrielrog1/
 
 <!---
